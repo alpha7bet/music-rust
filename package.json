@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/music-rust",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Description for music-rust",
   "main": "src/index.js",
   "scripts": {
